@@ -1,0 +1,9 @@
+numpy
+ipykernel
+pandas
+torch
+torchvision
+torchaudio
+transformers
+sentence_transformers
+annoy
